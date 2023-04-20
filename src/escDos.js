@@ -6,7 +6,7 @@ botonTres.addEventListener("click", () => {
       etiquetaAudioTres.play()
 			audioIntroDos.pause()
 			botonTres.style.backgroundColor = "green";
-			setTimeout( function() { window.location.href = "escenariotres.html"; }, 3000 );
+			setTimeout( function() { window.location.href = "https://severo96.github.io/actividad2/escenariotres.html"; }, 3000 );
     })
 		let botonCuatro = document.querySelector("#btn4")
     botonCuatro.addEventListener("click", () => {

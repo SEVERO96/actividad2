@@ -6,7 +6,7 @@ let boton = document.querySelector("#btn1")
       etiquetaAudio.play()
 			audioIntro.pause()
 			boton.style.backgroundColor = "green";
-			setTimeout( function() { window.location.href = "escenariodos.html"; }, 3000 );
+			setTimeout( function() { window.location.href = "https://severo96.github.io/actividad2/escenariodos.html"; }, 3000 );
     })
 
 		let botonDos = document.querySelector("#btn2")

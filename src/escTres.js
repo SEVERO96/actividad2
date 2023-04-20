@@ -7,7 +7,7 @@ botonCinco.addEventListener("click", () => {
 	audioIntroTres.pause(); 
   botonCinco.style.backgroundColor = "green";
   setTimeout(function () {
-    window.location.href = "escenariocuatro.html";
+    window.location.href = "https://severo96.github.io/actividad2/escenariocuatro.html";
   }, 3000);
 });
 let botonSeis = document.querySelector("#btn6");

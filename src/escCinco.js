@@ -7,7 +7,7 @@ botonSNueve.addEventListener("click", () => {
 	audioIntroCinco.pause();
   botonSNueve.style.backgroundColor = "green";
   setTimeout(function () {
-    window.location.href = "partefinal.html";
+    window.location.href = "https://severo96.github.io/actividad2/partefinal.html";
   }, 3000);
 });
 let botonDiez = document.querySelector("#btn10");
