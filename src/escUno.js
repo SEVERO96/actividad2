@@ -11,6 +11,7 @@ let boton = document.querySelector("#btn1")
 
 		let botonDos = document.querySelector("#btn2")
     botonDos.addEventListener("click", () => {
+			botonDos.setAttribute("disabled","disabled")
       let etiquetaAudioDos = document.createElement("audio")
       etiquetaAudioDos.setAttribute("src", "./src/recording/1.2oh-no.m4a")
       etiquetaAudioDos.play()

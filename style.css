@@ -168,4 +168,7 @@ button:hover::after, button:focus::after {
     opacity: 0;
   }
 }
+.video-final {
+	padding: 4rem 17rem;
+}
 
